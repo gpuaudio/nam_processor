@@ -1,0 +1,8 @@
+exclude folder *:/Program Files/
+exclude folder *:/Program Files*/
+exclude folder @BUILD-*/CMakeFiles/
+exclude folder @BUILD*/
+exclude folder z:/
+exclude folder c:/conan/
+exclude folder c:/.conan/
+exclude folder c:/Users/*/.conan/
